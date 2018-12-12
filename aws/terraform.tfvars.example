@@ -1,0 +1,18 @@
+aws_key_pair_file = "~/.ssh/sample-key.pem"
+aws_key_pair_name = "sample-key"
+aws_region = "us-west-2"
+aws_profile = "solutions-architects"
+
+tag_dept = "solutions-architects"
+tag_contact = "sample@chef.io"
+tag_customer = "sample"
+tag_ttl = "8"
+
+hab_release_channel = "stable"
+origin = "core"
+builder_auth_token = ""
+
+windows_admin_password = "Ch3fp@55"
+
+mysql_app_user = "hab"
+mysql_app_password = "hab"
