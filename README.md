@@ -1,4 +1,6 @@
 # Terraform Windows Example
+
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/6f3b4f69-7514-4383-aa9a-f434922b8364.svg)](https://app.soluble.cloud/repos/details/github.com/jvogt/hab-windows-terraform-example)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/fd3e3f2b-4882-4c18-b971-f305ed50b382.svg)](https://app.soluble.cloud/repos/details/github.com/jvogt/hab-windows-terraform-example)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/149ec4c0-faaa-4b62-9b75-9c0c8c9a3b78.svg)](https://app.soluble.cloud/repos/details/github.com/jvogt/hab-windows-terraform-example)  
 This repo builds a linux permanent peer, and a windows instance.  The provisioners for the windows service install the habitat supervisor as a service, and loads the core/mysql service with a custom user toml, and optional auth token.
 
 ## Setup
